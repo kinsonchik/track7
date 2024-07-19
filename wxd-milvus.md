@@ -8,7 +8,9 @@ Milvus is a vector database that stores, indexes, and manages massive embedding 
   - From the navigation menu, select Infrastructure Manager.
   - To define and connect to a service, click Add component and select Add service.
   - In the Add service window, select Milvus from the Type list.
-| Field| Description |
+    
+| Field | Description |
+| ----- | ---------- |
 |Display name|	Enter the Milvus service name to be displayed on the screen.|
 |Size	|Select the suitable size.|
 ||Starter: Recommended for 1 million vectors, 64 index parameters, 1024 segment size, and 384 dimensions.|
