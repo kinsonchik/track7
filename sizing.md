@@ -5,18 +5,9 @@ Last Updated: 2024-06-27
 
 Before you install IBM Cloud Pak for Data, review the hardware requirements for the control plane, the shared cluster components, and the services that you plan to install.
 
-|
-
-Components
-
- |
-
-Related links
-
- |
+|Components|Related links|
 | --- | --- |
-| [Cloud Pak for Data platform hardware requirements](https://www.ibm.com/docs/en/cloud-paks/cp-data/5.0.x?topic=requirements-hardware#hardware-reqs__platform) | Review the minimum requirements for a stable installation:
-
+| [Cloud Pak for Data platform hardware requirements](https://www.ibm.com/docs/en/cloud-paks/cp-data/5.0.x?topic=requirements-hardware#hardware-reqs__platform) | Review the minimum requirements for a stable installation: 
 -   [Cloud Pak for Data platform hardware requirements](https://www.ibm.com/docs/en/cloud-paks/cp-data/5.0.x?topic=requirements-hardware#hardware-reqs__platform)
 
 Work with your IBM Sales representative to determine whether you need more resources based on:
@@ -30,7 +21,7 @@ In addition, review the following resources:
 -   [Cluster node settings](https://www.ibm.com/docs/en/cloud-paks/cp-data/5.0.x?topic=requirements-hardware#hardware-reqs__settings)
 -   [Disk requirements](https://www.ibm.com/docs/en/cloud-paks/cp-data/5.0.x?topic=requirements-hardware#hardware-reqs__disk)
 
- |
+|
 | [Shared cluster-wide components](https://www.ibm.com/docs/en/cloud-paks/cp-data/5.0.x?topic=requirements-hardware#hardware-reqs__shared) | Review the hardware requirements for the shared cluster components that you need to install.
 
 -   [x86-64 hardware](https://www.ibm.com/docs/en/cloud-paks/cp-data/5.0.x?topic=requirements-hardware#hardware-reqs__shared-x86)
