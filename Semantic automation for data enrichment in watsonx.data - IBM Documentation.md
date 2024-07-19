@@ -1,0 +1,3 @@
+Semantic automation for data enrichment is a new feature introduced in IBM® watsonx.data. This feature leverages generative AI with IBM Knowledge Catalog to understand your data on a deeper level and enhance data with automated enrichment to make it valuable for analysis.
+
+Traditional or simple data might lack clear meaning or context. Semantic automation uses AI to analyze the data and add a semantic layer like labels, categories, or relationships to the data. This enriched data is easier to understand and used for tasks like machine learning or data visualization. Semantic automation adds additional instructions to your data, making it more insightful for the users.
